@@ -8,7 +8,7 @@
 - 😄 Pronomes: Código Limpo sempre!!
 - ⚡ Curiosidade: Trabalhando como QA atualmente , porém tenho experiencia com desenvolvimento WEB e Backend , prossuo projetos aqui no git pessoais de desenvolvimento com Swift, Java , Python e Javascript 
 -->
-
+## ⚡ Curiosidade 
 <div>
 <a href="https://github.com/CodingInsaneCat">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodingInsaneCat&layout=compact&langs_count=7&theme=dracula"/>
