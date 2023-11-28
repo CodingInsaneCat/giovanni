@@ -11,6 +11,6 @@
 ## ⚡ Curiosidade 
 <div>
 <a href="https://github.com/CodingInsaneCat">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodingInsaneCat&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=CodingInsaneCat&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodingInsaneCat&layout=compact&langs_count=7&theme=tokyonight"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=CodingInsaneCat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
